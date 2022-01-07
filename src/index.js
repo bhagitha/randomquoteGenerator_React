@@ -3,10 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Timer from './useEffectHook/Timer'
+import Component2 from './useRefHook/Component2'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Component2 />
   </React.StrictMode>,
   document.getElementById('root')
 );
