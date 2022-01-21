@@ -11,7 +11,7 @@ render(
     count={5}
     onChange={Starrating}
     size={24}
-    activeColor="#ffd700"
+    activeColor="#ffff00"
   />,
  
 //   document.getElementById("where-to-render")
